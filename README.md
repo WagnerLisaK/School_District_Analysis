@@ -26,6 +26,7 @@ How does replacing the 9th grade scores affect ...
 Math and Reading Scores by Grade?
 
 Math Scores by Grade Before
+
 ![Math_Scores_by_Grade_Before.png](https://github.com/WagnerLisaK/School_District_Analysis/blob/main/Resources/Math_Scores_by_Grade_Before.png)
 
 Math Scores by Grade After
