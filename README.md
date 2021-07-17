@@ -1,6 +1,6 @@
 # School District Analysis
 ## Overview
-
+The PyCity School District (15 schools; 39,170 students) evaluated the math and reading scores from all grades (9-12).  Analysis was completed and then the integrity of the 9th grade scores from Thomas High School were questioned.  The analysis was performed a second time, EXCLUDING the 9th grade scores from Thomas High School.  Below are the results and analysis, including and excluding the Thomas High School 9th grade scores.
 
 ## Results
 1. How is the District Summary affected?  When comparing the School District Summary including the Thomas High School 9th graders and then excluding the Thomas High School 9th graders, the results did not change significantly as described and illustrated below:
